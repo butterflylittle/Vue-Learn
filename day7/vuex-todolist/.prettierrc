@@ -1,0 +1,13 @@
+{
+  "semi": false,
+  "singleQuote": true,
+  "trailingComma": "none",
+  "space-before-function-paren": [
+    "error",
+    {
+      "anonymous": "always",
+      "named": "always",
+      "asyncArrow": "always"
+    }
+  ]
+}
